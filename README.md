@@ -2,12 +2,6 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </div>
 
-<div id="badges">
-  <a href="https://twitter.com/jattanjie21">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
 <img src="https://komarev.com/ghpvc/?jattanjie21=your-github-username&style=flat-square&color=blue" alt=""/>
 
 ### :hammer_and_wrench: Languages and Tools :
